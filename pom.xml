@@ -1459,7 +1459,7 @@ mm
             <dependency>
               <groupId>org.apache.maven.wagon</groupId>
               <artifactId>wagon-webdav-jackrabbit</artifactId>
-              <version>2.6</version>
+              <version>3.5.1</version>
             </dependency>
           </dependencies>
           <configuration>
